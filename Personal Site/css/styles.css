@@ -1,0 +1,28 @@
+/**********TAG SELECTORS**********/
+body {
+  background-color: #fffafa;
+}
+
+a:hover{
+  color: gold;
+}
+
+h1 {
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/**********CLASS SELECTORS**********/
+.profilepic {
+  width: 90%;
+}
